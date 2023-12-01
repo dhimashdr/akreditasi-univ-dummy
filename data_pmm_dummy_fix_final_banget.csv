@@ -1,0 +1,501 @@
+Perguruan3,ProgramStudi,JumlahDosen,JumlahProfessor,JumlahMahasiswa,RasioDosenMahasiswa,Keketatan,RatarataIPKLulusan,RatarataLamaStudi,Akreditasi
+Universitas 1,Pertanian,32,8,296,0.3,3,3.22,4.64,Unggul
+Universitas 2,Ekonomi,32,5,311,0.24,3,3.26,3.95,Unggul
+Universitas 3,Peternakan,33,5,209,0.26,1,3.3,4.7,Unggul
+Universitas 4,Manajemen Bisnis,27,5,201,0.19,1,2.86,3.84,Baik
+Universitas 5,Manajemen Bisnis,39,5,357,0.11,2,3.01,4.78,Sangat Baik
+Universitas 6,Teknik Sipil,33,4,151,0.27,1,3.28,3.35,Unggul
+Universitas 7,Peternakan,29,8,387,0.15,2,2.97,4.65,Sangat Baik
+Universitas 8,Seni Rupa,15,7,248,0.15,1,3.11,4.45,Sangat Baik
+Universitas 9,Peternakan,20,6,363,0.15,2,3.45,4.62,Unggul
+Universitas 10,Ekonomi,39,5,379,0.05,2,2.94,3.54,Sangat Baik
+Universitas 11,Matematika,28,4,366,0.27,1,3.46,3.53,Unggul
+Universitas 12,Kimia,24,3,221,0.05,1,2.81,4.93,Baik
+Universitas 13,Manajemen Bisnis,22,2,315,0.06,3,3.03,3.47,Sangat Baik
+Universitas 14,Manajemen Bisnis,30,6,379,0.28,3,3.32,4.73,Unggul
+Universitas 15,Peternakan,15,7,286,0.21,3,2.99,4.99,Sangat Baik
+Universitas 16,Kedokteran,25,3,366,0.26,1,3.16,3.83,Sangat Baik
+Universitas 17,Teknik Sipil,21,3,352,0.15,2,2.89,3.02,Baik
+Universitas 18,Seni Rupa,22,1,395,0.1,1,3.26,3.04,Unggul
+Universitas 19,Ekonomi,22,6,230,0.21,3,3.16,3.96,Sangat Baik
+Universitas 20,Teknik Sipil,38,8,359,0.19,1,2.97,3.01,Sangat Baik
+Universitas 21,Ilmu Komputer,23,3,323,0.12,2,3.34,4.76,Unggul
+Universitas 22,Kimia,30,2,241,0.11,3,2.86,4.64,Baik
+Universitas 23,Ekonomi,21,7,265,0.1,1,2.94,3.88,Sangat Baik
+Universitas 24,Seni Rupa,33,7,399,0.25,3,3.39,4.66,Unggul
+Universitas 25,Matematika,24,8,237,0.24,1,2.94,3.44,Sangat Baik
+Universitas 26,Ilmu Komputer,17,8,383,0.18,1,2.86,3.33,Baik
+Universitas 27,Matematika,39,5,192,0.08,3,2.76,3.15,Baik
+Universitas 28,Teknik Sipil,27,8,190,0.14,3,3.17,4.48,Sangat Baik
+Universitas 29,Ilmu Komputer,25,3,176,0.28,1,3.45,3,Unggul
+Universitas 30,Ilmu Komputer,18,2,334,0.27,3,3.48,4.09,Unggul
+Universitas 31,Kedokteran,38,3,373,0.28,1,3.28,3.03,Unggul
+Universitas 32,Kimia,33,8,208,0.2,2,3.4,3.47,Unggul
+Universitas 33,Sastra Inggris,25,5,220,0.14,1,3.33,4.74,Unggul
+Universitas 34,Sastra Inggris,33,3,221,0.09,3,2.9,4.27,Baik
+Universitas 35,Matematika,39,1,392,0.19,3,2.78,4.27,Baik
+Universitas 36,Kedokteran,40,2,272,0.25,2,2.97,3.2,Sangat Baik
+Universitas 37,Seni Rupa,15,7,355,0.28,1,3.1,3.78,Sangat Baik
+Universitas 38,Pertanian,22,8,282,0.26,2,3.18,3.11,Sangat Baik
+Universitas 39,Ilmu Komputer,29,4,195,0.27,2,3.39,4.72,Unggul
+Universitas 40,Pertanian,40,3,326,0.14,1,2.8,3.02,Baik
+Universitas 41,Teknik Sipil,29,2,358,0.08,3,3.21,3.68,Unggul
+Universitas 42,Ilmu Komputer,37,5,180,0.04,3,3.32,3.92,Unggul
+Universitas 43,Pertanian,23,5,336,0.24,2,3.1,3.62,Sangat Baik
+Universitas 44,Kedokteran,31,1,353,0.29,2,3.25,4.85,Unggul
+Universitas 45,Peternakan,27,8,334,0.17,3,2.89,3.17,Baik
+Universitas 46,Kimia,19,8,320,0.28,2,2.78,4.8,Baik
+Universitas 47,Pertanian,29,6,159,0.1,2,2.91,3.89,Sangat Baik
+Universitas 48,Kehutanan,36,2,183,0.21,2,2.92,4.21,Sangat Baik
+Universitas 49,Seni Rupa,34,2,278,0.18,3,3.46,3.08,Unggul
+Universitas 50,Matematika,35,6,260,0.06,1,2.91,3.22,Sangat Baik
+Universitas 51,Kedokteran,33,6,221,0.09,3,3.5,4.25,Unggul
+Universitas 52,Peternakan,36,2,399,0.12,2,2.95,4.39,Sangat Baik
+Universitas 53,Matematika,34,4,359,0.14,1,3,3.53,Sangat Baik
+Universitas 54,Manajemen Bisnis,34,7,400,0.05,1,2.96,4.68,Sangat Baik
+Universitas 55,Seni Rupa,18,8,399,0.13,1,2.81,3.74,Baik
+Universitas 56,Pertanian,15,6,184,0.09,1,2.9,4.83,Baik
+Universitas 57,Sastra Inggris,20,2,349,0.06,2,3.21,4.43,Unggul
+Universitas 58,Ilmu Komputer,22,2,287,0.26,2,3.38,4.91,Unggul
+Universitas 59,Matematika,17,6,314,0.25,2,3.4,4.4,Unggul
+Universitas 60,Seni Rupa,32,5,154,0.09,1,3.08,3.88,Sangat Baik
+Universitas 61,Peternakan,18,1,209,0.2,1,3.49,4.72,Unggul
+Universitas 62,Pertanian,34,6,313,0.06,1,2.84,4.16,Baik
+Universitas 63,Sastra Inggris,32,6,214,0.11,2,3.35,3.98,Unggul
+Universitas 64,Teknik Sipil,16,2,239,0.11,1,3.1,3.07,Sangat Baik
+Universitas 65,Pertanian,20,7,216,0.27,3,3.37,3.86,Unggul
+Universitas 66,Matematika,20,3,382,0.17,2,3.38,3.93,Unggul
+Universitas 67,Kimia,22,8,326,0.07,2,2.8,4.8,Baik
+Universitas 68,Kedokteran,32,8,212,0.06,2,2.79,4.71,Baik
+Universitas 69,Teknik Sipil,34,5,381,0.11,1,3.47,4.37,Unggul
+Universitas 70,Sastra Inggris,23,3,204,0.1,1,3.31,3.05,Unggul
+Universitas 71,Kedokteran,29,8,334,0.14,1,3.08,4.15,Sangat Baik
+Universitas 72,Matematika,38,6,362,0.21,2,3.12,4.19,Sangat Baik
+Universitas 73,Ekonomi,31,1,290,0.16,1,3.08,4.64,Sangat Baik
+Universitas 74,Teknik Sipil,38,1,315,0.08,1,2.82,4.02,Baik
+Universitas 75,Pertanian,26,1,240,0.09,3,3.23,4.65,Unggul
+Universitas 76,Ilmu Komputer,22,7,186,0.09,2,3.02,4.7,Sangat Baik
+Universitas 77,Peternakan,16,2,280,0.23,2,3.37,3.22,Unggul
+Universitas 78,Seni Rupa,17,6,400,0.25,3,3.13,4.95,Sangat Baik
+Universitas 79,Pertanian,20,5,269,0.07,2,2.94,3.55,Sangat Baik
+Universitas 80,Kehutanan,26,3,297,0.28,1,2.99,4.85,Sangat Baik
+Universitas 81,Manajemen Bisnis,18,7,307,0.21,1,3.43,3.43,Unggul
+Universitas 82,Kimia,24,3,196,0.11,1,3.47,3.69,Unggul
+Universitas 83,Kehutanan,34,4,356,0.28,3,3.32,3.65,Unggul
+Universitas 84,Ilmu Komputer,34,1,166,0.22,2,2.82,4.8,Baik
+Universitas 85,Sastra Inggris,20,3,154,0.27,2,2.85,4.42,Baik
+Universitas 86,Kimia,19,7,394,0.22,3,2.97,4.82,Sangat Baik
+Universitas 87,Sastra Inggris,24,8,273,0.06,1,3.48,4.04,Unggul
+Universitas 88,Kimia,20,3,233,0.16,1,3.14,3.43,Sangat Baik
+Universitas 89,Kehutanan,27,1,150,0.11,1,3.5,3.1,Unggul
+Universitas 90,Matematika,20,3,397,0.24,3,3.29,3.56,Unggul
+Universitas 91,Ilmu Komputer,32,5,345,0.11,3,2.77,4.42,Baik
+Universitas 92,Pertanian,33,5,354,0.22,1,3.48,3.64,Unggul
+Universitas 93,Kehutanan,38,8,252,0.1,3,3.14,4.16,Sangat Baik
+Universitas 94,Ekonomi,17,4,181,0.06,2,3.32,4.7,Unggul
+Universitas 95,Teknik Sipil,20,3,207,0.23,1,3.14,3.76,Sangat Baik
+Universitas 96,Kedokteran,29,8,242,0.22,1,3.01,4.7,Sangat Baik
+Universitas 97,Kehutanan,17,5,349,0.09,1,2.8,4.57,Baik
+Universitas 98,Ilmu Komputer,19,5,196,0.17,2,3.42,3.62,Unggul
+Universitas 99,Ekonomi,39,3,339,0.13,1,3.37,4,Unggul
+Universitas 100,Seni Rupa,36,6,200,0.19,3,2.83,4.15,Baik
+Universitas 101,Seni Rupa,21,1,265,0.05,3,2.84,4.94,Baik
+Universitas 102,Kimia,31,7,243,0.19,1,3.34,4.08,Unggul
+Universitas 103,Ekonomi,33,8,371,0.24,3,2.79,4.45,Baik
+Universitas 104,Ekonomi,17,5,295,0.06,1,3.4,4.9,Unggul
+Universitas 105,Kedokteran,39,4,395,0.23,1,3.48,3.55,Unggul
+Universitas 106,Ilmu Komputer,25,4,176,0.06,1,2.86,3.42,Baik
+Universitas 107,Kedokteran,20,5,292,0.07,1,3.16,4.27,Sangat Baik
+Universitas 108,Matematika,35,5,152,0.09,1,3.03,3.78,Sangat Baik
+Universitas 109,Ilmu Komputer,28,5,205,0.04,2,3.14,3.31,Sangat Baik
+Universitas 110,Ilmu Komputer,34,5,315,0.15,2,3.33,3.58,Unggul
+Universitas 111,Peternakan,16,3,311,0.15,1,3.12,4.92,Sangat Baik
+Universitas 112,Ilmu Komputer,29,7,189,0.23,3,2.82,3.5,Baik
+Universitas 113,Pertanian,32,8,182,0.06,2,3.35,3.09,Unggul
+Universitas 114,Sastra Inggris,27,2,245,0.25,2,2.81,4.85,Baik
+Universitas 115,Matematika,22,7,381,0.28,3,3.34,3.87,Unggul
+Universitas 116,Pertanian,39,8,174,0.14,1,3.42,4.97,Unggul
+Universitas 117,Matematika,22,1,170,0.1,1,3.25,3.69,Unggul
+Universitas 118,Pertanian,19,4,278,0.11,3,2.89,3.42,Baik
+Universitas 119,Pertanian,34,2,359,0.06,2,3.5,3.91,Unggul
+Universitas 120,Ekonomi,22,2,240,0.15,2,2.84,4.19,Baik
+Universitas 121,Seni Rupa,21,5,243,0.22,3,2.95,4.67,Sangat Baik
+Universitas 122,Ekonomi,40,8,178,0.21,1,3.35,3.32,Unggul
+Universitas 123,Peternakan,25,3,372,0.06,3,2.94,4.84,Sangat Baik
+Universitas 124,Manajemen Bisnis,38,3,349,0.18,1,3.45,3.73,Unggul
+Universitas 125,Manajemen Bisnis,31,6,281,0.21,2,2.98,4.25,Sangat Baik
+Universitas 126,Ilmu Komputer,16,3,203,0.18,3,3.35,3.67,Unggul
+Universitas 127,Teknik Sipil,34,5,163,0.11,2,3.19,3.43,Sangat Baik
+Universitas 128,Ilmu Komputer,26,3,387,0.23,3,3.37,4.87,Unggul
+Universitas 129,Teknik Sipil,34,8,275,0.21,2,3.26,3.54,Unggul
+Universitas 130,Matematika,32,1,369,0.24,1,2.99,4.07,Sangat Baik
+Universitas 131,Peternakan,28,7,153,0.15,1,3.39,3.4,Unggul
+Universitas 132,Peternakan,25,6,156,0.11,1,3.21,3.62,Unggul
+Universitas 133,Kehutanan,29,8,163,0.22,1,3.45,4.67,Unggul
+Universitas 134,Ilmu Komputer,21,5,281,0.06,2,3.25,3.2,Unggul
+Universitas 135,Sastra Inggris,18,7,285,0.13,2,3.13,4.89,Sangat Baik
+Universitas 136,Teknik Sipil,32,4,374,0.08,1,2.84,4.18,Baik
+Universitas 137,Seni Rupa,16,4,274,0.18,1,3.01,4.72,Sangat Baik
+Universitas 138,Kimia,28,8,167,0.23,3,3.08,4.28,Sangat Baik
+Universitas 139,Ekonomi,32,4,283,0.2,2,2.99,3.65,Sangat Baik
+Universitas 140,Kedokteran,23,5,164,0.23,3,2.81,4.93,Baik
+Universitas 141,Pertanian,20,5,343,0.18,3,3.18,3.84,Sangat Baik
+Universitas 142,Sastra Inggris,18,2,207,0.29,1,3.1,4.61,Sangat Baik
+Universitas 143,Kehutanan,21,1,161,0.24,1,2.91,3.75,Sangat Baik
+Universitas 144,Kimia,31,2,243,0.27,2,3.5,4.45,Unggul
+Universitas 145,Seni Rupa,25,1,196,0.13,3,3.49,4.6,Unggul
+Universitas 146,Sastra Inggris,19,4,309,0.21,1,2.78,4.37,Baik
+Universitas 147,Sastra Inggris,39,3,355,0.14,3,3.39,4,Unggul
+Universitas 148,Seni Rupa,31,5,384,0.13,3,3.49,3.65,Unggul
+Universitas 149,Teknik Sipil,38,4,196,0.17,1,2.77,4.87,Baik
+Universitas 150,Kedokteran,36,6,358,0.05,2,3.21,4.74,Unggul
+Universitas 151,Kedokteran,21,2,291,0.19,3,2.95,3.43,Sangat Baik
+Universitas 152,Teknik Sipil,22,4,188,0.16,3,3.45,4.67,Unggul
+Universitas 153,Kehutanan,27,6,313,0.07,1,3.09,4.42,Sangat Baik
+Universitas 154,Seni Rupa,18,1,283,0.11,2,3.07,3.3,Sangat Baik
+Universitas 155,Kehutanan,33,2,211,0.2,2,3.48,4.73,Unggul
+Universitas 156,Peternakan,26,4,212,0.15,2,2.94,3.08,Sangat Baik
+Universitas 157,Manajemen Bisnis,29,5,182,0.13,2,3.2,4.75,Sangat Baik
+Universitas 158,Teknik Sipil,19,2,217,0.18,2,3.17,4.87,Sangat Baik
+Universitas 159,Kimia,21,5,269,0.13,3,2.9,3.3,Baik
+Universitas 160,Ilmu Komputer,40,1,284,0.19,1,3.08,3.3,Sangat Baik
+Universitas 161,Ekonomi,19,5,386,0.2,2,3.45,3.2,Unggul
+Universitas 162,Pertanian,19,3,201,0.22,1,2.99,4.04,Sangat Baik
+Universitas 163,Sastra Inggris,38,2,375,0.06,2,2.86,4.33,Baik
+Universitas 164,Kimia,25,5,307,0.28,1,3.1,4.91,Sangat Baik
+Universitas 165,Ilmu Komputer,20,2,222,0.18,2,3.15,3.64,Sangat Baik
+Universitas 166,Matematika,38,2,200,0.19,2,2.92,3.56,Sangat Baik
+Universitas 167,Seni Rupa,23,5,244,0.16,2,3.15,4.74,Sangat Baik
+Universitas 168,Peternakan,20,3,192,0.04,3,2.97,3.93,Sangat Baik
+Universitas 169,Pertanian,15,8,307,0.07,1,3.34,4.32,Unggul
+Universitas 170,Ekonomi,21,4,252,0.23,2,3.29,4.53,Unggul
+Universitas 171,Ekonomi,26,7,155,0.25,2,2.93,4.81,Sangat Baik
+Universitas 172,Kedokteran,40,4,241,0.04,2,2.96,3.61,Sangat Baik
+Universitas 173,Ekonomi,38,2,381,0.25,1,3,4.64,Sangat Baik
+Universitas 174,Seni Rupa,31,2,216,0.21,2,3.26,3.67,Unggul
+Universitas 175,Sastra Inggris,25,3,313,0.25,2,2.91,3.06,Sangat Baik
+Universitas 176,Kimia,33,7,318,0.06,2,2.87,4.61,Baik
+Universitas 177,Teknik Sipil,39,5,366,0.27,3,3.04,4.8,Sangat Baik
+Universitas 178,Pertanian,28,8,232,0.27,1,3.05,3.96,Sangat Baik
+Universitas 179,Ilmu Komputer,32,4,341,0.14,1,3.32,4.34,Unggul
+Universitas 180,Seni Rupa,19,4,393,0.08,2,3.26,4.96,Unggul
+Universitas 181,Kehutanan,29,6,287,0.11,1,2.89,4.85,Baik
+Universitas 182,Teknik Sipil,37,3,261,0.08,2,2.81,4.25,Baik
+Universitas 183,Seni Rupa,18,8,254,0.2,3,3.01,3.67,Sangat Baik
+Universitas 184,Seni Rupa,17,2,262,0.04,2,3.35,3.87,Unggul
+Universitas 185,Manajemen Bisnis,26,6,175,0.09,1,3.36,3.77,Unggul
+Universitas 186,Matematika,35,1,226,0.08,1,3.27,4.81,Unggul
+Universitas 187,Ekonomi,19,8,246,0.07,2,3.15,4.16,Sangat Baik
+Universitas 188,Matematika,24,4,154,0.26,2,2.91,4.56,Sangat Baik
+Universitas 189,Sastra Inggris,29,7,211,0.23,1,2.97,3.01,Sangat Baik
+Universitas 190,Teknik Sipil,25,5,337,0.21,2,3.12,4.35,Sangat Baik
+Universitas 191,Matematika,30,8,273,0.13,1,2.89,3.45,Baik
+Universitas 192,Seni Rupa,31,5,218,0.2,1,2.76,4.53,Baik
+Universitas 193,Matematika,22,5,380,0.05,1,3.3,4.25,Unggul
+Universitas 194,Ilmu Komputer,17,4,169,0.16,1,3.13,4.5,Sangat Baik
+Universitas 195,Seni Rupa,35,8,322,0.2,2,2.92,4.69,Sangat Baik
+Universitas 196,Sastra Inggris,33,5,364,0.23,1,3.05,3.69,Sangat Baik
+Universitas 197,Pertanian,37,8,330,0.21,1,3.13,4.74,Sangat Baik
+Universitas 198,Sastra Inggris,15,6,393,0.26,2,3.37,3.17,Unggul
+Universitas 199,Kedokteran,26,7,199,0.15,1,3.34,4.41,Unggul
+Universitas 200,Peternakan,32,8,205,0.2,3,3.06,5,Sangat Baik
+Universitas 201,Teknik Sipil,33,7,368,0.1,2,3.27,4.31,Unggul
+Universitas 202,Teknik Sipil,32,1,292,0.07,1,3.29,4.25,Unggul
+Universitas 203,Ekonomi,39,5,318,0.17,2,3.09,4.56,Sangat Baik
+Universitas 204,Teknik Sipil,24,6,288,0.08,3,2.79,4.09,Baik
+Universitas 205,Peternakan,29,6,157,0.1,1,3.15,3.29,Sangat Baik
+Universitas 206,Kedokteran,38,1,382,0.14,3,2.87,4.69,Baik
+Universitas 207,Matematika,20,1,296,0.16,1,3.21,4.57,Unggul
+Universitas 208,Pertanian,39,3,268,0.28,3,3.27,3.8,Unggul
+Universitas 209,Matematika,21,1,156,0.06,3,2.94,3.46,Sangat Baik
+Universitas 210,Teknik Sipil,19,3,317,0.27,2,2.91,4.26,Sangat Baik
+Universitas 211,Matematika,27,6,387,0.27,1,3.09,4.44,Sangat Baik
+Universitas 212,Matematika,25,4,196,0.06,1,3.02,4.12,Sangat Baik
+Universitas 213,Ilmu Komputer,26,2,335,0.2,3,3.22,4.63,Unggul
+Universitas 214,Kimia,27,4,319,0.29,3,2.78,4.39,Baik
+Universitas 215,Kedokteran,38,3,153,0.2,3,3.04,3.06,Sangat Baik
+Universitas 216,Ekonomi,19,8,376,0.06,2,3.41,4.2,Unggul
+Universitas 217,Ilmu Komputer,23,7,200,0.23,3,3.38,3.85,Unggul
+Universitas 218,Ekonomi,20,3,309,0.23,2,3.05,3.19,Sangat Baik
+Universitas 219,Seni Rupa,28,8,349,0.22,2,3.14,3.36,Sangat Baik
+Universitas 220,Sastra Inggris,39,6,390,0.06,3,3.23,3.95,Unggul
+Universitas 221,Matematika,40,6,168,0.29,3,3.44,4.11,Unggul
+Universitas 222,Ilmu Komputer,38,6,227,0.1,2,2.86,4.5,Baik
+Universitas 223,Kimia,38,7,217,0.16,3,2.93,3.38,Sangat Baik
+Universitas 224,Kedokteran,18,3,266,0.15,3,2.9,3.19,Baik
+Universitas 225,Ilmu Komputer,26,4,183,0.21,2,3.12,4.74,Sangat Baik
+Universitas 226,Pertanian,15,1,289,0.13,3,3.35,3.27,Unggul
+Universitas 227,Pertanian,22,2,317,0.09,1,3.09,3.11,Sangat Baik
+Universitas 228,Kedokteran,18,8,233,0.15,1,3.08,4.64,Sangat Baik
+Universitas 229,Kimia,37,5,367,0.17,2,3.12,4.22,Sangat Baik
+Universitas 230,Seni Rupa,24,8,305,0.28,2,3.34,3.02,Unggul
+Universitas 231,Sastra Inggris,37,8,275,0.25,3,3.26,4.03,Unggul
+Universitas 232,Sastra Inggris,19,1,309,0.06,1,3.36,4.84,Unggul
+Universitas 233,Ilmu Komputer,30,2,212,0.25,1,3.46,3.71,Unggul
+Universitas 234,Ilmu Komputer,34,4,306,0.04,1,3.5,3.48,Unggul
+Universitas 235,Teknik Sipil,30,4,326,0.26,3,3.12,4.56,Sangat Baik
+Universitas 236,Matematika,39,1,358,0.15,2,2.94,3.48,Sangat Baik
+Universitas 237,Ekonomi,38,5,314,0.06,1,2.84,4.19,Baik
+Universitas 238,Seni Rupa,36,7,370,0.09,2,3.35,3.49,Unggul
+Universitas 239,Seni Rupa,20,4,344,0.24,2,3.47,3.46,Unggul
+Universitas 240,Sastra Inggris,23,7,361,0.29,2,3.26,4.75,Unggul
+Universitas 241,Kimia,35,5,195,0.12,3,3.17,4.89,Sangat Baik
+Universitas 242,Kehutanan,18,5,253,0.12,3,3.1,4.34,Sangat Baik
+Universitas 243,Kimia,33,2,341,0.09,2,3.25,3.07,Unggul
+Universitas 244,Manajemen Bisnis,26,7,152,0.22,2,3.19,3.02,Sangat Baik
+Universitas 245,Kehutanan,40,3,175,0.24,2,2.82,4.04,Baik
+Universitas 246,Seni Rupa,24,7,310,0.19,1,3.09,3.65,Sangat Baik
+Universitas 247,Kehutanan,19,4,266,0.24,1,3.18,3.7,Sangat Baik
+Universitas 248,Peternakan,31,5,299,0.15,3,3.44,3.72,Unggul
+Universitas 249,Kedokteran,20,3,342,0.04,2,3.16,3.16,Sangat Baik
+Universitas 250,Teknik Sipil,29,6,399,0.14,1,3.38,3.79,Unggul
+Universitas 251,Teknik Sipil,29,4,311,0.22,1,2.84,4.72,Baik
+Universitas 252,Manajemen Bisnis,25,5,278,0.08,1,3.38,4.84,Unggul
+Universitas 253,Pertanian,34,3,213,0.3,3,3.25,3.75,Unggul
+Universitas 254,Sastra Inggris,39,8,195,0.08,3,3.07,3.44,Sangat Baik
+Universitas 255,Manajemen Bisnis,22,1,237,0.29,3,3.38,4.04,Unggul
+Universitas 256,Kedokteran,35,3,172,0.2,2,3.22,3.76,Unggul
+Universitas 257,Pertanian,30,1,400,0.28,2,3.36,4.7,Unggul
+Universitas 258,Kimia,22,1,324,0.18,3,2.79,4.74,Baik
+Universitas 259,Manajemen Bisnis,37,7,203,0.25,1,2.93,4.68,Sangat Baik
+Universitas 260,Teknik Sipil,33,1,318,0.1,3,3.02,3.45,Sangat Baik
+Universitas 261,Pertanian,18,6,317,0.2,3,2.77,3.73,Baik
+Universitas 262,Matematika,18,5,261,0.09,1,3.07,4.79,Sangat Baik
+Universitas 263,Kimia,22,4,365,0.23,3,3.43,3.52,Unggul
+Universitas 264,Kimia,30,1,227,0.04,2,2.89,3.94,Baik
+Universitas 265,Manajemen Bisnis,18,8,305,0.09,1,2.95,3.85,Sangat Baik
+Universitas 266,Teknik Sipil,20,7,243,0.16,1,2.95,4.03,Sangat Baik
+Universitas 267,Pertanian,33,4,395,0.18,3,2.82,3.65,Baik
+Universitas 268,Pertanian,38,8,277,0.12,3,3.17,3.55,Sangat Baik
+Universitas 269,Sastra Inggris,19,7,256,0.1,3,3.07,4.46,Sangat Baik
+Universitas 270,Kimia,28,7,354,0.07,1,3.02,3.91,Sangat Baik
+Universitas 271,Peternakan,33,6,178,0.13,2,3.03,4.91,Sangat Baik
+Universitas 272,Manajemen Bisnis,36,3,298,0.07,2,3.07,3.48,Sangat Baik
+Universitas 273,Kedokteran,30,1,315,0.15,3,3.18,3.88,Sangat Baik
+Universitas 274,Pertanian,35,6,320,0.06,2,3.14,4.66,Sangat Baik
+Universitas 275,Matematika,37,7,277,0.12,1,2.83,3.53,Baik
+Universitas 276,Kehutanan,31,6,315,0.09,2,3.4,3.89,Unggul
+Universitas 277,Kimia,36,3,238,0.08,2,3.36,3.64,Unggul
+Universitas 278,Ekonomi,36,8,311,0.29,3,2.99,3.47,Sangat Baik
+Universitas 279,Kehutanan,15,6,336,0.05,1,3.46,4.96,Unggul
+Universitas 280,Sastra Inggris,19,5,197,0.08,1,2.75,4.15,Baik
+Universitas 281,Peternakan,15,5,330,0.04,1,2.81,4.27,Baik
+Universitas 282,Ekonomi,40,3,248,0.1,1,2.9,4.71,Baik
+Universitas 283,Seni Rupa,39,3,320,0.23,3,2.93,4.21,Sangat Baik
+Universitas 284,Seni Rupa,27,2,202,0.04,2,3.13,4.99,Sangat Baik
+Universitas 285,Ekonomi,32,7,232,0.17,3,2.85,4.69,Baik
+Universitas 286,Ilmu Komputer,28,4,396,0.14,1,3.45,4.55,Unggul
+Universitas 287,Kedokteran,36,8,159,0.12,1,3.48,3.7,Unggul
+Universitas 288,Teknik Sipil,34,8,328,0.23,3,3.44,3.39,Unggul
+Universitas 289,Matematika,27,8,177,0.07,3,3.11,3.72,Sangat Baik
+Universitas 290,Manajemen Bisnis,20,5,279,0.17,3,3.42,4.33,Unggul
+Universitas 291,Seni Rupa,19,3,274,0.13,3,3.22,3.48,Unggul
+Universitas 292,Teknik Sipil,38,2,270,0.11,1,3.21,4.3,Unggul
+Universitas 293,Manajemen Bisnis,40,3,244,0.06,2,3.17,4.69,Sangat Baik
+Universitas 294,Kehutanan,30,8,319,0.15,2,3.36,3.25,Unggul
+Universitas 295,Matematika,29,7,204,0.04,1,3.32,4.05,Unggul
+Universitas 296,Sastra Inggris,23,3,303,0.09,1,2.82,3.83,Baik
+Universitas 297,Peternakan,35,6,366,0.3,2,3.3,3.73,Unggul
+Universitas 298,Kimia,38,3,234,0.14,3,3.05,3.01,Sangat Baik
+Universitas 299,Matematika,20,7,353,0.16,2,3.12,4.22,Sangat Baik
+Universitas 300,Kehutanan,15,3,285,0.04,2,3.09,4.26,Sangat Baik
+Universitas 301,Teknik Sipil,24,3,214,0.12,2,3.47,3.09,Unggul
+Universitas 302,Kimia,39,6,290,0.19,3,2.77,4.06,Baik
+Universitas 303,Kehutanan,20,8,382,0.17,1,3.08,4.99,Sangat Baik
+Universitas 304,Teknik Sipil,27,6,277,0.23,2,3,3.15,Sangat Baik
+Universitas 305,Peternakan,39,8,303,0.27,3,3.32,4.84,Unggul
+Universitas 306,Teknik Sipil,38,7,289,0.22,2,2.91,3.18,Sangat Baik
+Universitas 307,Seni Rupa,36,1,333,0.2,1,2.82,4.29,Baik
+Universitas 308,Pertanian,26,2,189,0.06,3,3.07,4.15,Sangat Baik
+Universitas 309,Kimia,25,2,226,0.14,2,2.93,4.23,Sangat Baik
+Universitas 310,Seni Rupa,40,8,202,0.14,1,2.99,3.75,Sangat Baik
+Universitas 311,Kedokteran,20,4,213,0.27,3,3.22,4.64,Unggul
+Universitas 312,Matematika,16,8,235,0.1,1,3.34,4.36,Unggul
+Universitas 313,Ekonomi,28,3,358,0.18,2,3.45,3.43,Unggul
+Universitas 314,Manajemen Bisnis,20,2,324,0.22,3,3.46,4.88,Unggul
+Universitas 315,Matematika,15,6,219,0.2,1,3.25,3.86,Unggul
+Universitas 316,Kedokteran,34,6,314,0.09,1,3.41,4.29,Unggul
+Universitas 317,Kimia,24,2,304,0.1,1,3.3,4.03,Unggul
+Universitas 318,Pertanian,18,5,383,0.07,1,3.47,4.34,Unggul
+Universitas 319,Kedokteran,21,6,305,0.06,2,3.44,3.86,Unggul
+Universitas 320,Ilmu Komputer,27,3,278,0.17,3,2.95,3.02,Sangat Baik
+Universitas 321,Manajemen Bisnis,25,6,166,0.18,1,2.93,3.19,Sangat Baik
+Universitas 322,Teknik Sipil,34,8,236,0.14,1,3.24,4.05,Unggul
+Universitas 323,Manajemen Bisnis,22,2,273,0.18,2,2.86,4.07,Baik
+Universitas 324,Ekonomi,26,7,196,0.07,1,3.07,4.66,Sangat Baik
+Universitas 325,Kedokteran,20,8,342,0.14,3,2.92,3.62,Sangat Baik
+Universitas 326,Seni Rupa,37,8,227,0.08,2,3.3,4.23,Unggul
+Universitas 327,Ekonomi,24,2,329,0.11,3,3.37,3.86,Unggul
+Universitas 328,Ilmu Komputer,40,4,233,0.29,1,3.1,3.39,Sangat Baik
+Universitas 329,Ekonomi,20,5,344,0.1,3,3.25,4.59,Unggul
+Universitas 330,Matematika,39,4,199,0.06,3,2.99,4.24,Sangat Baik
+Universitas 331,Sastra Inggris,29,2,280,0.21,2,2.96,3.79,Sangat Baik
+Universitas 332,Kedokteran,16,4,321,0.05,1,3.14,4.49,Sangat Baik
+Universitas 333,Pertanian,35,6,229,0.13,2,3.29,4.77,Unggul
+Universitas 334,Kehutanan,36,8,201,0.16,1,3.47,4.92,Unggul
+Universitas 335,Sastra Inggris,21,8,237,0.06,2,3.02,4.24,Sangat Baik
+Universitas 336,Seni Rupa,22,2,301,0.12,2,3.5,3.21,Unggul
+Universitas 337,Matematika,19,1,281,0.13,3,3.4,3.06,Unggul
+Universitas 338,Ekonomi,17,5,336,0.17,2,2.76,3.66,Baik
+Universitas 339,Kedokteran,39,7,331,0.26,3,3.37,4.24,Unggul
+Universitas 340,Pertanian,37,6,164,0.12,1,2.78,3.33,Baik
+Universitas 341,Teknik Sipil,23,7,270,0.06,2,3.21,4.07,Unggul
+Universitas 342,Peternakan,36,7,214,0.1,3,3.46,3.44,Unggul
+Universitas 343,Sastra Inggris,28,5,281,0.17,1,2.88,4.67,Baik
+Universitas 344,Teknik Sipil,23,4,351,0.13,2,3.36,3.2,Unggul
+Universitas 345,Ilmu Komputer,15,6,280,0.24,3,3.43,3.53,Unggul
+Universitas 346,Seni Rupa,39,6,318,0.06,1,3.07,3.11,Sangat Baik
+Universitas 347,Seni Rupa,19,2,377,0.06,2,2.98,4.94,Sangat Baik
+Universitas 348,Manajemen Bisnis,17,2,387,0.17,3,3.42,4.88,Unggul
+Universitas 349,Matematika,22,2,292,0.11,3,3.47,4.65,Unggul
+Universitas 350,Teknik Sipil,15,6,351,0.27,1,3.07,4.27,Sangat Baik
+Universitas 351,Ekonomi,40,1,163,0.13,1,3.08,4.51,Sangat Baik
+Universitas 352,Ilmu Komputer,15,7,303,0.14,2,3.02,4.67,Sangat Baik
+Universitas 353,Ilmu Komputer,21,3,243,0.21,3,2.9,3.35,Baik
+Universitas 354,Peternakan,31,3,328,0.29,2,3.02,4.64,Sangat Baik
+Universitas 355,Peternakan,23,2,331,0.16,1,3.12,4.92,Sangat Baik
+Universitas 356,Kehutanan,19,5,349,0.17,1,3.46,4.26,Unggul
+Universitas 357,Ilmu Komputer,28,1,378,0.21,1,3.08,4.88,Sangat Baik
+Universitas 358,Ekonomi,36,6,257,0.2,3,3.26,4.35,Unggul
+Universitas 359,Kimia,37,1,220,0.27,1,3.29,4.99,Unggul
+Universitas 360,Kimia,17,5,247,0.18,3,2.78,4.05,Baik
+Universitas 361,Teknik Sipil,27,1,341,0.06,1,2.78,3.09,Baik
+Universitas 362,Kehutanan,36,3,334,0.23,2,2.97,3.09,Sangat Baik
+Universitas 363,Seni Rupa,25,2,371,0.19,3,2.96,3.81,Sangat Baik
+Universitas 364,Teknik Sipil,15,1,377,0.14,3,2.89,4.1,Baik
+Universitas 365,Peternakan,21,4,313,0.28,1,3.32,4.57,Unggul
+Universitas 366,Ekonomi,38,3,349,0.29,3,3.1,3.22,Sangat Baik
+Universitas 367,Kimia,29,6,302,0.22,2,3.24,4.98,Unggul
+Universitas 368,Ekonomi,19,4,183,0.17,3,3.12,4.94,Sangat Baik
+Universitas 369,Peternakan,15,5,393,0.08,3,3.17,3.29,Sangat Baik
+Universitas 370,Peternakan,35,4,213,0.13,2,3.34,3.21,Unggul
+Universitas 371,Kehutanan,38,7,187,0.15,1,2.79,4.66,Baik
+Universitas 372,Kedokteran,33,4,155,0.23,1,2.84,3.37,Baik
+Universitas 373,Kedokteran,17,2,177,0.25,3,2.99,3.14,Sangat Baik
+Universitas 374,Peternakan,35,2,329,0.07,1,2.85,3.31,Baik
+Universitas 375,Manajemen Bisnis,38,1,400,0.13,3,3.16,4.96,Sangat Baik
+Universitas 376,Matematika,17,2,201,0.25,2,2.78,4.71,Baik
+Universitas 377,Teknik Sipil,30,3,169,0.27,1,3.41,4.21,Unggul
+Universitas 378,Kimia,40,6,221,0.13,2,3.46,4.59,Unggul
+Universitas 379,Matematika,35,6,389,0.08,2,2.84,4.57,Baik
+Universitas 380,Pertanian,15,4,324,0.06,2,3.09,4.87,Sangat Baik
+Universitas 381,Manajemen Bisnis,24,3,327,0.28,3,3.47,4.2,Unggul
+Universitas 382,Teknik Sipil,37,6,160,0.12,3,2.97,3.76,Sangat Baik
+Universitas 383,Sastra Inggris,28,8,379,0.06,3,3.45,3.52,Unggul
+Universitas 384,Ilmu Komputer,18,4,309,0.2,3,2.95,3.18,Sangat Baik
+Universitas 385,Peternakan,26,7,256,0.29,2,2.85,4.04,Baik
+Universitas 386,Kimia,15,7,193,0.17,1,2.91,3.24,Sangat Baik
+Universitas 387,Teknik Sipil,22,4,151,0.26,3,2.85,4.05,Baik
+Universitas 388,Teknik Sipil,40,8,215,0.19,1,3.32,3.02,Unggul
+Universitas 389,Kedokteran,24,2,295,0.06,1,3.49,4.84,Unggul
+Universitas 390,Manajemen Bisnis,35,7,262,0.29,3,3.43,3.54,Unggul
+Universitas 391,Kedokteran,22,1,323,0.15,1,2.75,4.15,Baik
+Universitas 392,Matematika,29,6,354,0.08,1,3.36,4.28,Unggul
+Universitas 393,Teknik Sipil,27,8,217,0.12,3,3.2,3.09,Sangat Baik
+Universitas 394,Kedokteran,19,4,212,0.27,2,3.13,4.54,Sangat Baik
+Universitas 395,Matematika,15,2,340,0.24,1,2.99,4.86,Sangat Baik
+Universitas 396,Seni Rupa,39,1,153,0.26,3,2.89,4.48,Baik
+Universitas 397,Seni Rupa,18,2,239,0.29,2,2.78,3.11,Baik
+Universitas 398,Kimia,23,3,157,0.18,3,3.24,3.6,Unggul
+Universitas 399,Teknik Sipil,29,6,175,0.21,3,3.41,4.09,Unggul
+Universitas 400,Pertanian,34,5,290,0.21,3,3.04,4.02,Sangat Baik
+Universitas 401,Ilmu Komputer,19,4,221,0.19,2,2.83,3.48,Baik
+Universitas 402,Kimia,28,3,225,0.21,2,2.8,3.13,Baik
+Universitas 403,Kimia,38,5,285,0.25,3,2.95,4.18,Sangat Baik
+Universitas 404,Ekonomi,15,7,362,0.19,3,2.85,4.12,Baik
+Universitas 405,Manajemen Bisnis,21,6,398,0.1,2,2.8,3.6,Baik
+Universitas 406,Kehutanan,25,7,191,0.23,2,2.87,3.35,Baik
+Universitas 407,Sastra Inggris,22,2,185,0.09,1,3,4.23,Sangat Baik
+Universitas 408,Teknik Sipil,25,6,389,0.16,3,2.79,3.57,Baik
+Universitas 409,Sastra Inggris,35,1,238,0.18,1,3.3,4.71,Unggul
+Universitas 410,Sastra Inggris,27,2,364,0.11,3,2.86,3.15,Baik
+Universitas 411,Matematika,22,5,233,0.24,2,2.79,4.35,Baik
+Universitas 412,Kimia,23,6,249,0.19,1,2.8,3.91,Baik
+Universitas 413,Kimia,27,7,169,0.15,3,3.31,3.17,Unggul
+Universitas 414,Pertanian,24,3,221,0.08,3,3.06,4.37,Sangat Baik
+Universitas 415,Ilmu Komputer,17,2,290,0.18,3,3.05,3.31,Sangat Baik
+Universitas 416,Sastra Inggris,16,5,341,0.11,3,3.24,3.49,Unggul
+Universitas 417,Peternakan,24,6,261,0.15,1,2.76,4.03,Baik
+Universitas 418,Seni Rupa,27,3,175,0.08,2,3.02,3.97,Sangat Baik
+Universitas 419,Seni Rupa,15,6,182,0.13,1,3.34,4.45,Unggul
+Universitas 420,Kimia,34,7,230,0.26,2,3.25,4.48,Unggul
+Universitas 421,Pertanian,18,7,234,0.29,2,3.23,4.03,Unggul
+Universitas 422,Kehutanan,33,7,388,0.17,2,3,3.44,Sangat Baik
+Universitas 423,Seni Rupa,19,5,258,0.28,1,2.94,3.98,Sangat Baik
+Universitas 424,Ilmu Komputer,35,4,334,0.3,2,3.27,3.15,Unggul
+Universitas 425,Seni Rupa,16,1,338,0.09,1,3.1,4.76,Sangat Baik
+Universitas 426,Teknik Sipil,34,6,160,0.28,2,3.06,3.14,Sangat Baik
+Universitas 427,Kehutanan,29,2,366,0.2,1,2.79,3.06,Baik
+Universitas 428,Kedokteran,17,1,399,0.19,2,2.77,4.81,Baik
+Universitas 429,Kehutanan,27,6,247,0.09,2,3.08,4.16,Sangat Baik
+Universitas 430,Kedokteran,36,1,286,0.12,3,3.44,3.46,Unggul
+Universitas 431,Matematika,21,7,222,0.08,2,2.94,4.09,Sangat Baik
+Universitas 432,Kedokteran,33,5,365,0.07,3,2.88,4.09,Baik
+Universitas 433,Ilmu Komputer,32,7,392,0.27,1,3.03,4.64,Sangat Baik
+Universitas 434,Ilmu Komputer,34,7,343,0.3,1,2.94,4.9,Sangat Baik
+Universitas 435,Seni Rupa,38,4,241,0.04,2,3.31,4.18,Unggul
+Universitas 436,Teknik Sipil,33,1,191,0.11,1,3.02,4.47,Sangat Baik
+Universitas 437,Kimia,22,3,174,0.29,3,3.39,4.52,Unggul
+Universitas 438,Ilmu Komputer,20,5,194,0.12,2,2.93,3.5,Sangat Baik
+Universitas 439,Kedokteran,24,6,373,0.18,2,3.06,3.26,Sangat Baik
+Universitas 440,Manajemen Bisnis,28,5,284,0.26,2,3.19,3.49,Sangat Baik
+Universitas 441,Kimia,15,7,390,0.27,2,2.99,4.51,Sangat Baik
+Universitas 442,Teknik Sipil,19,4,283,0.16,3,2.79,3.57,Baik
+Universitas 443,Teknik Sipil,19,4,150,0.15,2,3.06,4.5,Sangat Baik
+Universitas 444,Pertanian,34,1,226,0.14,2,2.83,4.79,Baik
+Universitas 445,Matematika,30,5,198,0.25,1,3.41,3.2,Unggul
+Universitas 446,Manajemen Bisnis,28,7,187,0.22,2,2.95,4.78,Sangat Baik
+Universitas 447,Sastra Inggris,20,7,358,0.08,1,2.93,3.46,Sangat Baik
+Universitas 448,Manajemen Bisnis,26,7,335,0.3,3,2.82,3.74,Baik
+Universitas 449,Sastra Inggris,34,6,375,0.21,2,2.79,4.3,Baik
+Universitas 450,Manajemen Bisnis,26,4,255,0.16,3,3,3.65,Sangat Baik
+Universitas 451,Ilmu Komputer,29,5,255,0.24,1,3.41,3.57,Unggul
+Universitas 452,Peternakan,21,8,326,0.29,3,2.86,4.56,Baik
+Universitas 453,Pertanian,21,8,179,0.24,3,3.39,3.71,Unggul
+Universitas 454,Kimia,28,5,242,0.15,1,3.06,3.36,Sangat Baik
+Universitas 455,Kimia,39,1,356,0.18,1,3.43,4.84,Unggul
+Universitas 456,Seni Rupa,33,4,178,0.14,2,2.77,4.15,Baik
+Universitas 457,Sastra Inggris,30,8,270,0.09,2,3.01,3.92,Sangat Baik
+Universitas 458,Kedokteran,25,5,186,0.15,1,3.32,4.76,Unggul
+Universitas 459,Kimia,16,2,288,0.07,2,3.06,3.43,Sangat Baik
+Universitas 460,Ilmu Komputer,33,8,381,0.27,1,3.47,4.27,Unggul
+Universitas 461,Sastra Inggris,29,5,302,0.09,2,3.03,3.82,Sangat Baik
+Universitas 462,Teknik Sipil,24,6,364,0.22,1,2.84,4.48,Baik
+Universitas 463,Seni Rupa,40,1,333,0.29,3,3.39,4.28,Unggul
+Universitas 464,Kedokteran,28,2,214,0.05,1,3.1,3.51,Sangat Baik
+Universitas 465,Ekonomi,34,1,342,0.04,2,2.87,4.47,Baik
+Universitas 466,Kehutanan,32,1,344,0.18,3,3.46,3.59,Unggul
+Universitas 467,Kimia,36,3,273,0.28,2,2.84,4.2,Baik
+Universitas 468,Peternakan,30,2,364,0.08,3,3.14,3.08,Sangat Baik
+Universitas 469,Ilmu Komputer,33,8,350,0.11,1,3.11,3.87,Sangat Baik
+Universitas 470,Peternakan,38,6,364,0.27,3,3.25,4.45,Unggul
+Universitas 471,Kehutanan,32,7,268,0.22,3,2.9,3.51,Baik
+Universitas 472,Manajemen Bisnis,37,3,198,0.04,3,3.22,3.27,Unggul
+Universitas 473,Matematika,30,3,369,0.16,1,3.08,4.71,Sangat Baik
+Universitas 474,Seni Rupa,22,8,290,0.29,3,3.43,3.45,Unggul
+Universitas 475,Matematika,22,2,387,0.2,2,2.84,4.16,Baik
+Universitas 476,Kedokteran,30,1,265,0.21,2,3.06,3.41,Sangat Baik
+Universitas 477,Kedokteran,15,6,327,0.19,3,3.09,3.62,Sangat Baik
+Universitas 478,Kimia,21,4,170,0.12,1,3.36,4.56,Unggul
+Universitas 479,Matematika,22,1,322,0.21,2,3.34,3.15,Unggul
+Universitas 480,Seni Rupa,36,6,359,0.06,1,3.33,4.07,Unggul
+Universitas 481,Pertanian,29,5,257,0.08,1,3.03,4.8,Sangat Baik
+Universitas 482,Kimia,17,5,265,0.17,1,3.24,4.26,Unggul
+Universitas 483,Kimia,22,4,260,0.17,1,2.95,3.33,Sangat Baik
+Universitas 484,Kedokteran,33,6,181,0.13,1,3.1,4.87,Sangat Baik
+Universitas 485,Ilmu Komputer,38,7,255,0.17,2,3.41,4.3,Unggul
+Universitas 486,Seni Rupa,26,1,330,0.25,1,3.29,4.09,Unggul
+Universitas 487,Manajemen Bisnis,26,4,153,0.23,1,2.85,4.77,Baik
+Universitas 488,Seni Rupa,38,1,323,0.3,3,3.26,4.47,Unggul
+Universitas 489,Peternakan,21,1,355,0.26,2,2.76,4.83,Baik
+Universitas 490,Kedokteran,39,3,201,0.27,1,3.47,3.67,Unggul
+Universitas 491,Teknik Sipil,38,7,188,0.05,1,3.46,4.37,Unggul
+Universitas 492,Peternakan,18,2,310,0.24,1,2.94,4.8,Sangat Baik
+Universitas 493,Seni Rupa,27,1,309,0.05,3,3.45,4.31,Unggul
+Universitas 494,Ekonomi,25,1,339,0.1,3,3.36,3.87,Unggul
+Universitas 495,Kehutanan,18,2,224,0.2,2,3.42,4.49,Unggul
+Universitas 496,Seni Rupa,34,5,186,0.08,3,2.91,3.29,Sangat Baik
+Universitas 497,Ekonomi,28,1,314,0.26,1,2.88,4.13,Baik
+Universitas 498,Seni Rupa,21,2,372,0.05,2,2.96,3.53,Sangat Baik
+Universitas 499,Kehutanan,33,2,259,0.13,3,3.09,4.32,Sangat Baik
+Universitas 500,Kehutanan,18,4,264,0.1,2,3.2,4.23,Sangat Baik
